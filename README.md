@@ -1,8 +1,14 @@
 ### Hi, I'm Oshadhi 👨‍💻 !  Happy to see you here ! 👋
+### Full Stack Software Engineer | Web3 Developer ###
+
 
 ### Get in touch With Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-oshadhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oshadhi-liyanage/)](https://www.linkedin.com/in/oshadhi-liyanage/)
+[![Twitter Badge](https://img.shields.io/badge/-oshadhi_dev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://x.com/oshadhi_dev)](https://x.com/oshadhi_dev)
+[![Farcaster Badge](https://img.shields.io/badge/-oshadhi-8A63D2?style=flat-square&logo=farcaster&logoColor=white&link=https://farcaster.xyz/oshadhi)](https://farcaster.xyz/oshadhi)
+
+
 
 
 ### Some of the Tools & Technologies I Have Used
